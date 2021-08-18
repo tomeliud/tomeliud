@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.istockphoto.com/photos/circuit-board-picture-id1145585734?k=6&m=1145585734&s=612x612&w=0&h=tVDKe9I2GbQuw6Xt1g2nDG5FIt1Kv_ztBgBLgtE-FNY=" />
+  <img src="Robot.png" />
 </p>
 
 <h1 align='center'>
-  Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> I'm Paul Ndirangu.
+  Hi there <img src="https://user-images.githubusercontent.com/61727167/114547962-cecc6b80-9c67-11eb-9697-b1c5a8c8ff46.gif" width="30px"> I'm Tom Kinyanjui.
 </h1>
 
 <h1 align='center'>
@@ -12,39 +12,40 @@
 
 <p align='center'>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/paul-ndirangu/">
+  <a href="https://www.linkedin.com/in/tom-njoroge-423322144/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/31t4ykrih5p4wqjtk2ttto6lgo7m">
+  <a href="https://open.spotify.com">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>     
   </a>&nbsp;&nbsp;
-  <a href="https://paul-mwaura.github.io/Paul-Mwaura-Portfolio.github.io/">
+  <a href="https://github.com/tomeliud">
     <img src="https://images.unsplash.com/photo-1596265371388-43edbaadab94?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvJTIwbG9nb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width=80 height=30/>     
   </a>&nbsp;&nbsp;
 
-  <a href="https://github.com/Paul-mwaura">
+  <a href="https://github.com/tomeliud">
     <img src="https://img.shields.io/github/followers/paul-mwaura?style=social"/>     
   </a>&nbsp;&nbsp;
 </p>
 
 ### Hi there 👋
 
-Data Scientist with strong math background and with an experience, using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning. 
+Am an enthusiastic Machine learning Engineer with a solid background in Statistics and  experience in interpreting and analyzing data for driving business solutions. Proficient knowledge in statistics, mathematics, and analytics. 
+Involved in Python open source community and passionate about deep reinforcement learning. 
 
 - 🔭 I’m currently working on Image Recognition Project
 - 🌱 I’m currently learning Image Classification with Localization
 - 👯 I’m looking to collaborate on Deep Learning
 - 🤔 I’m looking for help with Image Reconstruction
 - 💬 Ask me about Deep Learning
-- 📫 How to reach me: paulmwaura254@gmail.com
+- 📫 How to reach me: tomeliud500@gmail.com
 <br />
 
 ---
 
-<img align="left" alt="Paul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=paul-mwaura&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
+<img align="left" alt="Tom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tomeliud&show_icons=true&hide_border=true&hide=contribs&count_private=true&include_all_commits=false" />
 
-<a href="https://github.com/paul-mwaura/paul-mwaura">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-mwaura&theme=blue-green" alt="Melisa's GitHub Stats" />
+<a href="https://github.com/tomeliud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomeliud&theme=blue-green" alt="Tom's GitHub Stats" />
 </a>
 
 
@@ -54,7 +55,7 @@ Data Scientist with strong math background and with an experience, using predict
   
 ## Education
 
-- 📖 **Data Science**\
+- 📖 **Machine Learning in Data Science**\
 📍 **Moringa School** - Nairobi, Kenya
 <img align="right"
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
