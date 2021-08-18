@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Robot.png" />
+  <img src="Robot.png" height='50'/>
 </p>
 
 <h1 align='center'>
